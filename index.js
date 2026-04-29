@@ -38,3 +38,4 @@ async function getWeather(city) {
 }
 
 getWeather(city);
+// update for PR
